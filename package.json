@@ -1,0 +1,26 @@
+{
+  "name": "gulp-task-if",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "gulp",
+    "if",
+    "task",
+    "conditional",
+    "gulp-task",
+    "gulp-if",
+    "if",
+    "else",
+    "run",
+    "gulp-if-else"
+  ],
+  "author": "Evangelos Zotos",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.4.0"
+  }
+}
